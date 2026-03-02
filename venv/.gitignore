@@ -1,5 +1,4 @@
-Universidad.sqlite3
-venv 
-__pycache
-
-
+venv/
+__pycache__/
+*.pyc
+*.sqlite3
